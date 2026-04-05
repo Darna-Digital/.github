@@ -1,12 +1,14 @@
-## Hi there 👋
+## About Darna Digital
 
-<!--
 
-**Here are some ideas to get you started:**
+Hey, I'm Rūtenis — a software development consultant with 7+ years of experience helping startups and teams bring ideas to life.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Over the years, I've helped launch 12+ digital products across B2B SaaS, marketplaces, e-commerce, and public sector platforms.
+
+At Darna Digital, I build software, both for clients and for myself. I take what I learn from real-world product development and apply it directly to your project, so you get practical, tested solutions.
+
+From planning and architecture to hands-on implementation, I work across the full product lifecycle.
+
+Got an idea or a project that needs momentum?
+
+Let's talk.
